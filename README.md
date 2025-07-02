@@ -26,7 +26,7 @@ This project uses [purego](https://github.com/ebitengine/purego), rather than [c
 ## Running
 There is mask.md file that can be used to re-create and run this example.
 
-Mask is a command line or script runner, with *some* similarities to make, which also serves as accessible documentation by being in markdown.
+[Mask](https://github.com/jacobdeichert/mask) is a command line or script runner, with *some* similarities to make, which also serves as accessible documentation by being in markdown.
 
 The task runner will build the rust crate for: Linux x86, Linux ARM, and macOS ARM.
 
