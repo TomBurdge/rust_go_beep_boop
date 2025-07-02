@@ -1,8 +1,8 @@
 # Rust Go Beep Boop
 
-Rust and go are both really nice.
+[Rust](https://www.rust-lang.org/) and [go](https://go.dev/) are both really nice.
 
-Both are memory safe. Go is super iterate and get running. Rust is super quick at runtime. 
+Both are memory safe. Go is super quick to iterate and get running. Rust is super quick at runtime (and go isn't too shabby).
 
 Since they are both great, but are both a little better at two different things
 

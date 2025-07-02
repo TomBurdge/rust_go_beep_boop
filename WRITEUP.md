@@ -1,4 +1,4 @@
-## Comparing Rust and Go deep dive
+# Comparing Rust and Go deep dive
 Below assertions, which are true at a very high level, and include some opinion:
 
 * Rust is a super quick language, because of: 
