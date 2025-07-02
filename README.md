@@ -9,7 +9,7 @@ Since they are both great, but are both a little better at two different things
 Wouldn't it be nice if we could use them together?
 
 It could look something like:
-* Go for the higher level glue iteration.
+* Go for the higher level code glue, iteration, and scripts.
 * Rust for performance critical operations.
 
 ## This is possible!
