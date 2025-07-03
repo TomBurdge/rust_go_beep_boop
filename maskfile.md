@@ -20,7 +20,7 @@ cd ../../..
 ```
 
 ## run
-> Runs the go code which calls the built go library
+> Runs the go code and gets `purego` if it is not already installed to the module
 ```sh
 go get github.com/ebitengine/purego
 echo 'running the go code...'
