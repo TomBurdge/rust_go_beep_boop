@@ -44,5 +44,6 @@ Then, to run the example, run:
 
 The code will compile, and you will see printed to console:
 `beep boop I got your string. here it is: Hello from go!`
-Rust has been printed this to console, after receiving and parsing a 'Hello from go' string via the C FFI. 
+
+Rust has printed to console, after receiving and parsing a 'Hello from go' string via the C FFI. 
 
